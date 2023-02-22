@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Comfortaa&family=Poppins:ital,wght@0,300;0,500;1,300&display=swap");
+
+.orange {
+    font-family: "Comfortaa", cursive;
+    color: orange;
+}
+
+.orangemotto {
+    width: 250px;
+}
+.footerFirstRow {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.footer {
+    width: min(90%, 1440px);
+    margin-inline: auto;
+    margin-top: 90px;
+    display: flex;
+    gap: 500px;
+    padding-bottom: 50px;
+}
+
+.FooterLeft {
+    display: flex;
+    gap: 90px;
+}
+
+li {
+    list-style: none;
+}
+
+.fu {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

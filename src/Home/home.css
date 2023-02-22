@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.home {
+    display: flex;
+    gap: 100px;
+    width: min(80%, 1440px);
+    margin-inline: auto;
+}
+
+.home-text-heading {
+    font-size: 3.5rem;
+    width: 500px;
+
+    padding-top: 200px;
+}
+
+.home-text-matter {
+    font-size: 1rem;
+    width: 500px;
+}
+
+.hero-bg {
+    height: 100%;
+    width: 560px;
+    padding-top: 40px;
+}
+.home-button {
+    margin-top: 30px;
+}
+.home-btn1 {
+    width: 100px;
+    height: 40px;
+    background-color: #ffce54;
+    border: none;
+
+    border-radius: 10px;
+}

@@ -1,0 +1,37 @@
+.reviewperson {
+    height: 100%;
+    width: 120px;
+    border-radius: 16px;
+}
+
+.reviewbody {
+    width: 300px;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.CardS {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+}
+
+.rev {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    text-align: center;
+}
+
+.reviewH2 {
+    position: relative;
+    left: 40%;
+    font-size: 2rem;
+    width: 400px;
+}
